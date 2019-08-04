@@ -1,0 +1,12 @@
+;;extensions to ignore
+*.log
+*.pot
+*.pyc
+realtimechat/.DS_Store
+.DS_Store
+
+;;directories to ignore
+.idea/
+realtimechat/media
+.vscode/
+
